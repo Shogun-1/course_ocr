@@ -36,7 +36,7 @@ class ArchivedHWDBReader:
     def decode_image(self, name):
         sample = self.archive.read(name)
         buf = np.asarray(bytearray(sample), dtype='uint8')
-        return cv2.imdecode(buf, cv2.IMREAD_GRAYSCALE)
+        return cv2.imdecode(buf, cv2.IMREAD_COLOR)
     
     def close(self):
         self.archive.close()
