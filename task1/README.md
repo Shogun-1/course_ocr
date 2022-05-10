@@ -1,3 +1,6 @@
+# UPD 10.05.2022
+Веса новой модели с лучшим качеством можно найти по [этой ссылке](https://drive.google.com/file/d/1hvO78IXYQCxpFSyuuKAf-VM_sRqGVQWb/view?usp=sharing).
+
 # UPD 22.03.2022
 Веса модели можно найти [здесь](https://drive.google.com/file/d/1GUQ8egGiwRBuuymHIw68SAey6pMiMKrI/view?usp=sharing).
 
