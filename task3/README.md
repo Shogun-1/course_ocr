@@ -1,3 +1,8 @@
+# UPDATE 18.05.2022
+- Веса модели для детекции штрихкодов (нотбук `barcode-project-det.ipynb`) можно найти [здесь](https://drive.google.com/file/d/14A524MVX0Fg_HvQ1Ee4zL_MXOvPphRQm/view?usp=sharing).
+- Веса модели распознавания штрихкодов (ноутбуки `barcode-project-rec-training.ipynb` и `barcode-project-rec-inference-final.ipynb`) доступны по [этой ссылке](https://drive.google.com/file/d/1cHhLdfMqGAxgvUBbH0Wad3yreNJ8l22V/view?usp=sharing).
+- Ноутбук `barcode-project-rec-inference-final.ipynb` включает в себя как часть с обучением рекогнайзера, так и часть с инференсом, где используются сразу обе модели: детектор и рекогнайзер (см. секцию **Submit result** в конце ноутбука).
+
 # Задание 3: распознавание штрихкодов
 
 ## Описание
